@@ -1,0 +1,63 @@
+{
+  "title": "El Parque",
+  "author": "Sergio Sadrac Oros Alvarez y Angel Zair Morales Pasos",
+  "date": "7/10/26",
+  "areaCodes": [
+    "lleng"
+  ],
+  "areas": {
+    "es": "Lenguas"
+  },
+  "levelCodes": [
+    "PRI"
+  ],
+  "levels": {
+    "es": "Primaria (6-12)"
+  },
+  "description": {
+    "es": "Fase 4 \r\nCampo formativo: Primaria 3er Grado"
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "el_parque.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 10,
+  "mediaFiles": 24,
+  "totalSize": 1357115,
+  "files": [
+    "benson.jpg",
+    "benson_2.png",
+    "c__users_usuario_desktop_fondo_epicoooo.png",
+    "c__users_usuario_desktop_mordecai.jpg",
+    "el_parque.jclic",
+    "el_parque.jclic.js",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "image.png",
+    "imsmanifest.xml",
+    "index.html",
+    "mapache-resized.jpg",
+    "mapache-resized1.jpg",
+    "mapache-resized2.jpg",
+    "mordecai-resized.jpg",
+    "mordecai-resized1.jpg",
+    "mordecai-resized2.jpg",
+    "mordecai-resized3.jpg",
+    "mordecai_2.png",
+    "musculoso_y_fantasmano.jpg",
+    "paletas.jpg",
+    "papaleta_2-resized.jpg",
+    "parque-resized.jpg",
+    "parque-resized1.jpg",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "rigby_2.png"
+  ]
+}
